@@ -1,0 +1,27 @@
+box
+-30 10 10 60 20 20
+torus
+150 0 0 20 100
+torus
+-150 0 0 20 100
+box
+250 550 10 20 550 20
+box
+-250 550 10 20 550 20
+sphere
+150 0 0 30
+sphere
+-150 0 0 30
+ident
+scale
+0.8 0.8 0.8
+rotate
+x 70
+rotate
+y 30
+move
+220 240 0
+apply
+display
+save
+glasses.ppm
